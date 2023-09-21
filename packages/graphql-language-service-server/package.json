@@ -59,7 +59,7 @@
     "@types/mkdirp": "^1.0.1",
     "@types/glob": "^8.1.0",
     "cross-env": "^7.0.2",
-    "graphql": "^16.4.0",
+    "graphql": "^16.8.1",
     "cross-fetch": "^3.1.5"
   }
 }
